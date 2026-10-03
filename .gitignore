@@ -1,0 +1,9 @@
+# Fichiers de données volumineux
+*.csv
+Covid Data.csv
+simple_clean_data.csv
+
+# Configuration PyCharm et Python
+.idea/
+__pycache__/
+*.pyc
